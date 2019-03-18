@@ -1,0 +1,12 @@
+I spoke with Kerry, and she instructed me to make a ReadMe explaining the files in this folder.
+
+The first file: HeroesOfPymoli_Marc_Final.ipynb is the original .ipynb document with my code. 
+The problem I experienced is all of my data frame summary tables were not displaying.
+
+After searching for a solution I then pushed up a second file:
+HeroesOfPymoli_Marc_Final_Link_Jupyter_Notebook_Viewer.txt
+This file contains the hyperlink that will display the code correctly in Jupyter Notebook without needing to have the source data and opening a Jupyter Notebook on your own computer.
+Please copy/paste this hyperlink in the .txt file and it will display my code.
+
+The third file is: HeroesOfPymoli_ObservableTrends_MarcPalomo.docx
+This file contains my observable trends as a Word Document.

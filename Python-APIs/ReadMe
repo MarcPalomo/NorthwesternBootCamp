@@ -1,0 +1,8 @@
+This ReadMe file explains all the files and folders in this Python-APIs folder.
+
+api_keysMP.py contains the key to make my weatherpy code work.
+
+WeatherPyMARCFinal.ipynb is the final version of my code for the assignment.
+
+output_data is a folder that contains the CSV exported in the code,
+and also houses all the pictures of the scatter plots saved with the code.

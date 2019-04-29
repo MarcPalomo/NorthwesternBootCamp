@@ -1,0 +1,15 @@
+Hello. Please find the directory for my Advanced Data Storage and Retrieval HW.
+
+The following files are in this GitHub folder in my HW Repo:
+
+Resources: contains the original csv files and the sqlite files referenced in the code.
+
+Marc_Palomo_Climate_Final.ipynb is the file that contains all of the code for my project 
+and should be opened using Jupyter Notebook. There was a discrepency between tasks outlined
+in the climate_starter.ipynb file and the ReadMe that explained the assignment. Per Daisy's
+comment in our class Slack, I deferred to the ReadMe to complete all necessary tasks, and
+completed the first part of the Optional Analyses.
+
+climate_app.py is the file that contains my flask code. I added some brief descriptors when 
+outlining all the available routes on the main '/' page in order to clarify the date format 
+required to successfully pull the data.

@@ -1,0 +1,94 @@
+.picture {
+    width: 50%;
+    padding: 2%;
+}
+
+.comparisons{
+    width: 100%;
+}
+.navbar{
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: #FDFEFE;
+}
+
+#navbox {
+    background-color: #3fa0a0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2pc;
+    color: white;
+    font-weight: bold;
+    padding: 1%;
+    /* 1BC498 */
+}
+
+h1 {
+    color: #3fa0a0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+th {
+    text-align: center;
+    color: #3fa0a0;
+    font-size: 2pc;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bgc {
+    background-color: #FDFEFE;
+}
+
+body {
+    background-color: #E5E8E8;
+}
+
+.jpadding{
+    padding: 3%;
+}
+
+figcaption {
+    text-align: center;
+    color: #3fa0a0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2pc;
+}
+
+.picborder {
+    border: #3fa0a0 4px solid;
+}
+
+table {
+    font-size: 1pc;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+th {
+    font-size: 1pc;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+
+
+
+@media (max-width: 770px){
+    .picture {
+        width: 25%;
+    }
+
+    .comparisons {
+        width: 100%;
+    }
+    
+    .colorchange {
+        background-color: #3fa0a0;
+    }
+
+    .greychange {
+        background-color: lightgrey;
+    }
+
+    .whitechange {
+        background-color: #FDFEFE;
+    }
+}

@@ -1,0 +1,18 @@
+Thank you for looking at my Web Scraping and Document Database Homework. 
+This ReadMe explains all the files in this homework folder.
+
+The "Photos" folder contains the pictures of the Mars Website upon submission.
+Since I was out of town, I wasn't able to apply as much style to the HTML
+code as I would like. I took a picture of how the website looks upon completion;
+however, I am going to continue to add little details to the HTML after my
+initial upload.
+
+The "templates" folder contains the file called "index2.html". This is the file
+that displays the code for the Mars Website.
+
+"app2.py" and "scrape_mars.py" contain the flask code and the scrape code used
+to feed the "index2.html" file.
+
+Lastly, the "mission_to_marsFinal.ipynb" contains all the scrape code in a
+jupyter notebook file that was used to make sure all the code worked before
+adding the data to MongoDB and uploading to my html.

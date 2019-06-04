@@ -1,0 +1,18 @@
+Hello and welcome to my Intro to JavaScript assignment. I had some fun with the formatting but kept the majority
+of the original shell css and style.
+
+In this folder of my repository you will find the following files:
+
+index.html - This is the base html code for the mini-site that was created.
+
+The "static" folder contains 3 sub-folders:
+css - contains the css code. I only made some minor modifications to the original code that was provided.
+images - contains all the original images provided, as well as, the new image I applied to the background.
+js - contains the original "data.js" file and the "app.js" file.
+
+The "app.js" file is the primary code feeding into the "index.html" file. Here I made my functions to respond to the
+appropriate applied filters. When inspecting the page in the browser, one can see the inputs and the resulting arrays.
+Each of the inputs is designed to clear on the click event. If both filters are left blank, there will be a console.log
+that says "no data entered".
+
+I hope you enjoy the 3 hyperlinks to music videos found in the carousel at the bottom of the page!

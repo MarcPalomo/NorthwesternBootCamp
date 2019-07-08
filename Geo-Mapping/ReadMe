@@ -1,0 +1,14 @@
+Hello and thank you for coming to my Geo-Mapping assignment. In this Repo you will find the following files:
+
+config.js
+This file contains my Leaflet API referenced in the code in order to display the map.
+
+index.html
+This file contains the HTML code to display the page properly. 
+The HTML code references the 2 Javascript files and the CSS file.
+
+logic.js
+This file contains my code to pull in the earthquake data and visually display the data on the leaflet map.
+
+style.css
+This file contains some basic styling in order to display the leaflet map correctly using the HTML code.

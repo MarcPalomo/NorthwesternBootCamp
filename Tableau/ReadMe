@@ -1,0 +1,15 @@
+Hello and welcome to my Tableau HW Repo Folder. In this folder you will find the following files:
+
+Resources- this contains the separated CSV files that are combined and cleaned in order to use in Tableau.
+There are 4 Quarterly files for FY19, as well as, 1 file per month July 2018 - June 2019 with trip specific data.
+Please note the Quarterly files stops after 6/10; so, I cleaned the Quarterly data to exclude June altogether
+
+Bike_Cleaner.ipynb- this contains the code in Jupyter Notebook where all the CSVs were cleaned and combined into 
+the following 2 CSV files that were used in Tableau:
+
+Bike_Data.csv- the file that contains information on rides from 7/1/18-6/30/19
+RS_NoJune.csv- the Quarterly data files that has been transformed to show information from 7/1/18-5/31/19
+
+Bike Data.twbx- this is the downloaded version of my Tableau project. To see a Public Published version of this
+data set with an brief analysis using the Story feature, you may visit: 
+https://public.tableau.com/profile/marc.palomo#!/vizhome/BikeData_15633245608100/Story1
